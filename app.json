@@ -19,12 +19,12 @@
     },
     "LECTURE_AUTO_STATUS": {
       "description": "le bot lira tous les status automatiquement (oui pour activer et non pour désactiver)",
-      "value": "oui",
+      "value": "non",
       "required": false
     },
     "TELECHARGER_AUTO_STATUS": {
       "description": "le bot téléchargera tous les status automatiquement (oui pour activer et non pour désactiver)",
-      "value": "oui",
+      "value": "non",
       "required": false
     },
     "NOM_BOT": {
@@ -62,7 +62,7 @@
     },
     "SESSION_ID": {
       "description": "veuillez renseigner votre id de session",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUxJVWlTZ3Brc2RyMFM0N0hqQVdaMDZoR2lDTks3MmZjYitWZUd2RTUxRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidmdOemxLZWNmcFp2aG1HU3Z0cnNHVEpialNRR3lFcTBybzNPV2U3SHN5Yz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnR0g4T1pxUk4vOTBnWk1Fa01jZTVRaGI4R2h4RktpVmFFb0tyRnpRTW44PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ1Wm1RdVB1SGtxU1VpL3k0RHI1R0o3Y3RMcDE5RE1pcDREcmtGSW9qRTJzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVKcVUweDc1UGV6TjVNaUhMdE5wU3UyVk1GVTZUU2l0OWthcVNoajhnMUE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImluUGE2dm1ETW43Qlo0NFZKUW9ZTVpUVkZhQkpoWDVEcTcwUFI5S1AyMHM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0xHM3lmSHg1VnI3NElid3lieVY5cXFjdnhORGo1V3h1WGJpeStOMFhXOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK1JFbTF0VEQ5UUlGY294ZElkamxTQnMwbVZOWjFVYUUyRU1CaGpEVzR3az0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImYrcUk0SGlPdHpFNWlYOEs3ZnZldmdwTUJTUk0vQ1ZSbEphZUJmdWhZL3E3Smd4NDQ4SmZwNjNhVFIyU0JyWVpQWXpyTXNobE1zR0xQNmxxRmRxK2hBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTI2LCJhZHZTZWNyZXRLZXkiOiJLNUFCQzExbkV3T2RKZVd0MXBhZnl3UGQyQUczbkp6V2tvdkhXUDhIMjlJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJLRFpZRjEzRiIsImxhc3RQcm9wSGFzaCI6IjNnUFVKayIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0JJSUFnPT0ifSwibWUiOnsiaWQiOiI1MDk0NzYyOTYxMTo1QHMud2hhdHNhcHAubmV0IiwibmFtZSI6Im1pa2Ug8J2Qk/CdkIPwnZCAIiwibGlkIjoiMTM2NDk0MTYxMzYzMDMyOjVAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPelJ6UDRERUphcXI3d0dHQXNnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJGdTU0T3VoM1ZvYjR5bHdLcmk1UjBUMHQvdzI5ZlowbUo5aHZQL0ZVbmdFPSIsImFjY291bnRTaWduYXR1cmUiOiJDWkJmWEhPKzhXK1dRVm9IaGJIT25abVJrKzdCdVhZdXo0Vjg3SXBUeVFqeGtBREEzS2JYSzFjVklOMFU3QjJFMDR4YkVpVEZSZE9PQXVlUk16MzJEQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiMmM1eCt5VmZuQ3ViL05GQXBidkk3SzR4TzNDWXh3Rm5KTFNGS1ZZOHo0VWIwTkw1azJ0aU9iWUpjN0N4bEhWamlFamVJdUU5WTRHKzF3ZFFtWllXaUE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI1MDk0NzYyOTYxMTo1QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlJidWVEcm9kMWFHK01wY0NxNHVVZEU5TGY4TnZYMmRKaWZZYnoveFZKNEIifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MzcyMTczMDYsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBT2dnIn0=",
       "required": true
     },
     "NOM_OWNER": {
@@ -73,7 +73,7 @@
     "NUMERO_OWNER": {
       "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
       "required": false,
-      "value": "22891733300"
+      "value": "50947629611"
     },
     "WARN_COUNT": {
       "description": "il s'agit de nombre d'avertissement limite",
@@ -88,7 +88,7 @@
     "ANTI_VUE_UNIQUE": {
       "description": "Mettez oui si vous voulez que le contenue des message en vue unique vous sois envoyez en pv",
       "required": false,
-      "value": "non"
+      "value": "oui"
     },
     "PM_CHATBOT": {
       "description": "Mettez oui si vous voulez que les message que le bot reponde automatiquement aux messages en pv",
@@ -103,7 +103,7 @@
     "ANTI_DELETE_MESSAGE": {
       "description": "Mettez oui si vous voulez que les messages supprimer par les autres utilisateurs vous sois envoyez en pv",
       "required": false,
-      "value": "non"
+      "value": "oui"
     },
     "AUTO_REACT_MESSAGE": {
       "description": "Mettez oui si vous voulez que les messages soient réagis automatiquement",
